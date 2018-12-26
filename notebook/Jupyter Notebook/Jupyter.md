@@ -96,7 +96,10 @@ z = np.cos(x)
 plt.plot(x,y)
 plt.plot(x,z)
 
-plt.show()import numpy as np
+plt.show()
+
+********************************************************
+import numpy as np
 import pylab as pl
 x = np.linspace(0,1.5,1000)
 y=x
